@@ -49,7 +49,7 @@ R&D spending is the strongest predictor of firm innovation, followed by firm siz
 
 A Streamlit web app where you can enter any firm's details and get an instant prediction - Innovator or Non-Innovator - with probability score and feature importance chart.
 
-**[Try the Live App →]([https://your-link.streamlit.app](https://firm-innovation-analysis-kl8miw7ehjywxhgnabgdvc.streamlit.app/))**
+**[Try the Live App →]((https://firm-innovation-analysis-kl8miw7ehjywxhgnabgdvc.streamlit.app/))**
 
 ## Tech Stack
 
