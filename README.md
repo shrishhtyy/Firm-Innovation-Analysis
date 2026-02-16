@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-Not all firms innovate, even with available resources. This project analyzes firm-level data to identify which characteristics most strongly predict whether a firm will innovate. The goal is to provide data-driven insights useful for research and policy decisions
+Not all firms innovate, even with available resources. This project analyzes firm-level data to identify which characteristics most strongly predict whether a firm will innovate. The goal is to provide data-driven insights useful for research and policy decisions.
 
 ## Dataset
 
