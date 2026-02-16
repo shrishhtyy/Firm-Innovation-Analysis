@@ -25,11 +25,11 @@ Not all firms innovate, even with available resources. This project analyzes fir
 
 ## Approach
 
-1. **Data Cleaning & EDA** - Distribution analysis, innovation rates by firm characteristics, correlation heatmap
-2. **Preprocessing** - Label encoding, train-test split (80/20), SMOTE for class imbalance
-3. **Model Training** - Logistic Regression, Random Forest, XGBoost with 5-fold cross-validation
-4. **Evaluation** - Accuracy, Precision, Recall, F1-score, Confusion Matrix
-5. **Feature Importance** - Ranked predictors of innovation
+1. **Data Cleaning & EDA**: Distribution analysis, innovation rates by firm characteristics, correlation heatmap
+2. **Preprocessing**: Label encoding, train-test split (80/20), SMOTE for class imbalance
+3. **Model Training**: Logistic Regression, Random Forest, XGBoost with 5-fold cross-validation
+4. **Evaluation**: Accuracy, Precision, Recall, F1-score, Confusion Matrix
+5. **Feature Importance**: Ranked predictors of innovation
 
 ## Results
 
